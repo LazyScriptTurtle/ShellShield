@@ -1,5 +1,4 @@
 # ShellShield 
- # PSGuard 🛡️
 **PowerShell Threat Intelligence Platform**
 
 A lightweight, automated threat detection system built in PowerShell that collects malicious IP addresses from threat intelligence feeds and monitors your network connections for potential threats.
