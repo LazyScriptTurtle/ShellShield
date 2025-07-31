@@ -1,4 +1,4 @@
-# ShellShield 
+# ShellShield 🛡️
 **PowerShell Threat Intelligence Platform**
 
 A lightweight, automated threat detection system built in PowerShell that collects malicious IP addresses from threat intelligence feeds and monitors your network connections for potential threats.
@@ -25,8 +25,8 @@ A lightweight, automated threat detection system built in PowerShell that collec
 
 ### 1. Clone Repository
 ```powershell
-git clone https://github.com/yourusername/PSGuard.git
-cd PSGuard
+git clone https://github.com/yourusername/ShellShield.git
+cd ShellShield
 ```
 
 ### 2. Install Required Module
@@ -51,7 +51,6 @@ $Config = @{
     MaxResults = 10000          # Max IPs per API call
 }
 ```
-
 
 ## 📊 Database Schema
 
@@ -126,9 +125,9 @@ We welcome contributions! Here's how you can help:
 ### Development Setup
 ```powershell
 # Clone your fork
-git clone https://github.com/yourusername/PSGuard.git
-
+git clone https://github.com/yourusername/ShellShield.git
 ```
+
 ## 🙏 Acknowledgments
 
 - **AbuseIPDB** for providing free threat intelligence API
