@@ -68,16 +68,14 @@ CREATE TABLE IOC (
 
 ### Phase 1: Core Functionality ✅
 - [x] AbuseIPDB integration
+- [x] Malware Bazzar integration
+- [x] URLhaus integration
 - [x] SQLite database storage
 - [x] Network connection monitoring
 - [x] Duplicate IP handling
 - [x] Basic statistics
 
 ### Phase 2: Enhanced Features 🚧
-- [ ] **Multiple Threat Sources**
-  - VirusTotal API integration
-  - AlienVault OTX feeds
-  - Custom IOC imports
 - [ ] **Advanced Monitoring**
   - Real-time connection monitoring
   - Geolocation enrichment
